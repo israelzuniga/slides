@@ -6,6 +6,7 @@ import socket
 import json
 
 # Crear nueva app aqui: https://apps.twitter.com/
+
 consumer_key = ''
 consumer_secret = ''
 access_token = ''
@@ -35,19 +36,19 @@ def sendData(c_socket):
   auth.set_access_token(access_token, access_secret)
 
   twitter_stream = Stream(auth, TweetsListener(c_socket))
-  # Sustituir la cadena '####' por cualquier otra palabra 
+  # Sustituir la cadena '####' por cualquier otra palabra
   twitter_stream.filter(track=['####'])
 
 if __name__ == "__main__":
   s = socket.socket()         # Create a socket object
   host = "127.0.0.1"      # Get local machine name
-  port = 5555                 # Reserve a port for your service.
+  port = 5555                 # Reserve a port for your service
   s.bind((host, port))        # Bind to the port
 
   print("Listening on port: %s" % str(port))
 
-  s.listen(5)                 # Now wait for client connection.
-  c, addr = s.accept()        # Establish connection with client.
+  s.listen(5)                 # Now wait for client connection
+  c, addr = s.accept()        # Establish connection with client
 
   print( "Received request from: " + str( addr ) )
 
