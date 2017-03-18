@@ -2,6 +2,12 @@
 ## Introducción a Big Data
 ## 5ta clase - 18/Marzo/2017 @ Startup Studio Monterrey
 
+
+
+### Repaso de Arquitectura Lambda
+
+![LA Overview](http://lambda-architecture.net/img/la-overview_small.png)
+
 ### Preparativos
 
 En la terminal de comandos de su computadora
