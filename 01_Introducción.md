@@ -21,8 +21,9 @@ Abrir puerto 4040 en el contenedor y reiniciarlo.
 Dentro del contenedor
 
 ```bash
+# apt-get update
+# apt-get install netcat
+# su jovyan
 $ git clone https://github.com/israelzuniga/spark_streaming_class.git
-$ sudo apt-get update
-$ sudo apt-get install netcat
 $ nc -lkv 127.0.0.1 -p 9999
 ```
