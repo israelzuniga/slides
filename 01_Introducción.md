@@ -1,5 +1,5 @@
-# D
-
+# Desafío LATAM
+## Introducción a Big Data
 ## 5ta clase - 18/Marzo/2017 @ Startup Studio Monterrey
 
 ### Preparativos
