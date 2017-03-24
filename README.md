@@ -30,18 +30,20 @@ $ nc -lkv 127.0.0.1 -p 9999
 ```
 
 
-## Preparativos para el 2d notebook/ejercicio:: TwitterTrends/
+## Preparativos para el 2d notebook/ejercicio: TwitterTrends
 
 #### Instalar Tweepy
 
 ```bash
-/opt/conda/bin/pip install tweepy
+$ /opt/conda/bin/pip install tweepy
 ```
 
 #### Cuando sea requerido, ejecutar *read.py*
 
+Desde el folder TwitterTrends/
 ```bash
-/opt/conda/bin/python read.py
+$ cd TwitterTrends
+$ /opt/conda/bin/python read.py
 ```
 
-#### Abrir el notebook de Jupyter: Twitter stream.ipynb
+#### Abrir el notebook de Jupyter: TwitterTrends/Twitter stream.ipynb
