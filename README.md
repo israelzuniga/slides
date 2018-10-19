@@ -1,5 +1,5 @@
 # spark_streaming_class
-Sesión educativa para explicar Spark Streaming y realizar un pequeño ejercicio con la API de Twitter
+Sesión educativa para explicar Spark Streaming con PySpark y realizar un pequeño ejercicio con la API de Twitter
 
 
 
@@ -30,7 +30,7 @@ $ nc -lkv 127.0.0.1 -p 9999
 ```
 
 
-## Preparativos para el 2d notebook/ejercicio: TwitterTrends
+## Preparativos para el 2do notebook/ejercicio: TwitterTrends
 
 #### Instalar Tweepy
 
