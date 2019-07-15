@@ -12,3 +12,10 @@ Sesión educativa para explicar Spark Streaming y realizar un pequeño ejercicio
 
 
 ## Tenacity
+
+
+
+## Día de las comunidades Monterrey | Machine Learning para Videojuegos (Reinforcement Learning / Q-Learning)
+
+Israel Zúñiga de la Mora | Monterrey Data Science & Engineering
+23/Sep/2017 @ Coworking Monterrey
