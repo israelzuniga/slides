@@ -8,6 +8,10 @@ Display support for presentations or technical talks (slides, notebooks, code sn
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/israelzuniga/slides/master)
 
+## 2020
+Introducción a XGBoost: Decision Trees, Random Forests & Gradient Boostin Machines
+
+
 ## 2019
 ### Tenacity - Retrying library for Python
 Python Monterrey: Primera reunión 2019
