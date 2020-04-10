@@ -9,7 +9,7 @@ Display support for presentations or technical talks (slides, notebooks, code sn
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/israelzuniga/slides/master)
 
 ## 2020
-Introducción a XGBoost: Decision Trees, Random Forests & Gradient Boostin Machines
+Introducción a XGBoost: Decision Trees, Random Forests & Gradient Boosting Machines
 
 
 ## 2019
